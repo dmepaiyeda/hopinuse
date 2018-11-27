@@ -2,3 +2,4 @@
 https://hopin.netlify.com/* https://hopintech.com/:splat 301!
 http://hopintech.com/* https://hopintech.com/:splat 301!
 http://www.hopintech.com/* https://hopintech.com/:splat 301!
+http://app.hopintech.com/* https://app.hopintech.com/admin:splat 301!
