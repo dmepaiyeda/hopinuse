@@ -2465,6 +2465,19 @@ blockquote {
   align-items: flex-start;
 }
 
+.footer3-links-wrapper-foot{
+  margin-top: 0px;
+}
+
+.space-footer{
+  margin-bottom: 100px;
+}
+
+.social-links{
+  float:left; 
+  margin:5px;
+}
+
 .form1-form-wrap {
   margin-bottom: 0px;
 }
@@ -5522,6 +5535,12 @@ blockquote {
     display: block;
     margin-right: 0px;
   }
+
+  .hero3-secondbutton-wrap {
+    display: block;
+    margin-right: 0px;
+  }
+
   .landing3-logo.landing3-logo-mob {
     display: none;
   }
