@@ -667,6 +667,27 @@ blockquote {
   text-transform: uppercase;
 }
 
+.main_tagline {
+  opacity: 0.6;
+  color: #111212;
+  font-size: 35px;
+  line-height: 1rem;
+  font-weight: 200;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+}
+
+.main_tagline2 {
+  color: #111212;
+  font-weight: 100;
+}
+
+.main_tagline3 {
+  color: #111212;
+  font-weight: 100;
+}
+
 .tagline.style-lbl {
   margin-top: 10px;
   margin-bottom: 25px;
